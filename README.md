@@ -19,7 +19,7 @@
 - 📫  jitinrcks@gmail.com
 - ⚡   I love to code on leetcode, codeforces and hackerrank
 
-[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatinbharadwaj&hide=issues,contribs)](https://github.com/jatinbharadwaj/github-readme-stats)
+[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatinbharadwaj&hide=issues,contribs&show_icons=true&theme=dracula)](https://github.com/jatinbharadwaj/github-readme-stats)
 
 
 <!--

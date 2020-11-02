@@ -19,6 +19,8 @@
 - 📫  jitinrcks@gmail.com
 - ⚡   I love to code on leetcode, codeforces and hackerrank
 
+[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatinbharadwaj)](https://github.com/jatinbharadwaj/github-readme-stats)
+
 
 <!--
 **jatinbharadwaj/jatinbharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

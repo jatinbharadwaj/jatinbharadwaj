@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hi, there 👋
+
+**I'm a keen observer and a curious learner having a knack for developing new skills. An avid programming enthusiast who is seeking his path in the Software Development and focus on solving real-world problems algorithmically. Some technologies I enjoy working with include ReactJs, DJango, Python, NojdeJS, JavaScript, Bootstrap**
+
+<!-- ![](https://github.com/jatinbharadwaj/jatinbharadwaj/blob/main/Jatin%20Intro.png) -->
+<img src="https://github.com/jatinbharadwaj/jatinbharadwaj/blob/main/Jatin%20Intro.png" align="center" alt="jatin intro pic" width="900" height="300">
+
+
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thingisjatin)](https://twitter.com/thingisjatin)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-bhardwaj-78a123126/)](https://www.linkedin.com/in/jatin-bhardwaj-78a123126/)
+[![GitHub Jatin](https://img.shields.io/github/followers/jatinbharadwaj?label=follow&style=social)](https://github.com/jatinbharadwaj)
+
+- 🔭  I'm currently looking for good job opportunities 
+- 🌱  I'm constantly improving my Data Structure, Algorithm and concepts of Computer Science 
+- 💬  Besides coding and development you can chit chat with me about anime, MCU and DC
+- 📫  jitinrcks@gmail.com
+- ⚡   I love to code on leetcode, codeforces and hackerrank
+
 
 <!--
 **jatinbharadwaj/jatinbharadwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,6 +4,9 @@
 
 <!-- ![](https://github.com/jatinbharadwaj/jatinbharadwaj/blob/main/Jatin%20Intro.png) -->
 <img src="https://github.com/jatinbharadwaj/jatinbharadwaj/blob/main/Jatin%20Intro.png" align="center" alt="jatin intro pic" width="900" height="300">
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fjatinbharadwaj%2Fjatinbharadwaj" alt="Hits">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinbharadwaj&layout=compact&hide=html" />
 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thingisjatin)](https://twitter.com/thingisjatin)

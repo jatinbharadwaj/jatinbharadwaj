@@ -16,8 +16,8 @@
 - 🔭  I'm currently looking for good job opportunities 
 - 🌱  I'm constantly improving my Data Structure, Algorithm and concepts of Computer Science 
 - 💬  Besides coding and development you can chit chat with me about anime, MCU and DC
-- 📫  jitinrcks@gmail.com
-- ⚡   I love to code on leetcode, codeforces and hackerrank
+- 📫  [E-mail me!](jitinrcks@gmail.com)
+- ⚡   I love to code on [leetcode](https://leetcode.com/jeeku/),[hackerrank](https://www.hackerrank.com/jitinrcks) and [codeforces](https://codeforces.com/profile/Jeeku)
 
 [![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatinbharadwaj&hide=issues,contribs&show_icons=true&theme=dracula)](https://github.com/jatinbharadwaj/github-readme-stats)
 

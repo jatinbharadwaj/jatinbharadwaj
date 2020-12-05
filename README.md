@@ -8,6 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinbharadwaj&layout=compact&hide=html" />
 
+## [My portfolio!](https://jatin-interactive-portfolio.netlify.app/public/index.html)   [![Netlify Status](https://api.netlify.com/api/v1/badges/30c0eb8c-75db-4743-8975-e2ea4761c5df/deploy-status)](https://jatin-interactive-portfolio.netlify.app/public/index.html)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/thingisjatin)](https://twitter.com/thingisjatin)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jatin-bhardwaj-78a123126/)](https://www.linkedin.com/in/jatin-bhardwaj-78a123126/)

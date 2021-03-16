@@ -3,7 +3,9 @@
 **I'm a keen observer and a curious learner having a knack for developing new skills. An avid programming enthusiast who is seeking his path in the Software Development and focus on solving real-world problems algorithmically. Some technologies I enjoy working with include ReactJs, DJango, Python, NojdeJS, JavaScript, Bootstrap**
 
 <!-- ![](https://github.com/jatinbharadwaj/jatinbharadwaj/blob/main/Jatin%20Intro.png) -->
+
 <img src="https://github.com/jatinbharadwaj/jatinbharadwaj/blob/main/Jatin%20Intro.png" align="center" alt="jatin intro pic" width="900" height="300">
+<img src="https://github.com/jatinbharadwaj/jatinbharadwaj/blob/main/jatinbhardwaj.gif" align="center" alt="gif" width="100%">
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fjatinbharadwaj%2Fjatinbharadwaj" alt="Hits">
 
 # [My portfolio!](https://jatin-interactive-portfolio.netlify.app/public/index.html)   [![Netlify Status](https://api.netlify.com/api/v1/badges/30c0eb8c-75db-4743-8975-e2ea4761c5df/deploy-status)](https://jatin-interactive-portfolio.netlify.app/public/index.html)
